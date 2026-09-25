@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whitewater Wild - Premier River Rafting</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Whitewater Wild</h1>
+        <h3>Conquer the Currents. Embrace the Adventure.</h3>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Trip Packages Section -->
+        <section id="packages">
+            <h2>Our Thrilling Trip Packages</h2>
+            
+            <h3>The Family Float (Class I-II)</h3>
+            <p>Perfect for beginners and families with young children. Enjoy a scenic, relaxing ride down the calm stretches of the river, complete with a riverside picnic lunch and plenty of opportunities to splash around.</p>
+
+            <h3>The Adrenaline Rush (Class III-IV)</h3>
+            <p>Ready to challenge yourself? This high-energy excursion takes you through heart-pounding rapids and tight canyons. Guided by our expert certified oarsmen, you will navigate technical whitewater that will leave you soaked and smiling.</p>
+        </section>
+
+        <!-- Action Photo Section -->
+        <section id="gallery">
+            <h2>The Experience</h2>
+            <!-- Standard placeholder image showing an action rafting shot -->
+            <img src="https://unsplash.com" alt="A group of people wearing helmets and life jackets paddling a yellow raft through intense whitewater rapids" width="600">
+        </section>
+
+        <!-- Safety Checklist Section -->
+        <section id="safety">
+            <h2>Essential Safety Gear Checklist</h2>
+            <p>Your safety is our top priority. We provide all necessary gear, but here is what is mandatory for every rafter before we hit the water:</p>
+            <ul>
+                <li><strong>Type V Coast Guard Approved PFD</strong> (Personal Flotation Device)</li>
+                <li><strong>Heavy-Duty Whitewater Helmet</strong></li>
+                <li><strong>Neoprene Wet Suit</strong> (available for cold-water days)</li>
+                <li><strong>Water Shoes or Closed-Toe Sandals</strong> (no flip-flops allowed)</li>
+                <li><strong>Heavy-Duty T-Grip Paddle</strong></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2026 Whitewater Wild Adventure Co. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
